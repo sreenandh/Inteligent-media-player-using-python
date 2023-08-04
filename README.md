@@ -1,6 +1,6 @@
 # Inteligent-media-player-using-python
 Inteligent Media Player which uses hand gestures instead of keyboard and mouse
-Sure, here is the working of the hand gestures in the code:
+Here is the working of the hand gestures in the code:
 
 * **No fingers:** When no fingers are detected, the code does nothing.
 * **One finger:** When one finger is detected, the code presses the "space" key. This can be used to play/pause a video or audio file.
